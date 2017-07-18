@@ -21,4 +21,8 @@
         <item name="android:background">@color/darkBlue</item>
     </style>
 
+    <style name="BeatBoxButton.Strong">
+        <item name="android:textStyle">bold</item>
+    </style>
+
 </resources>
