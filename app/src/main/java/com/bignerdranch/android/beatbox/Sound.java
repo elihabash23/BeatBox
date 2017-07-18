@@ -10,6 +10,7 @@ package com.bignerdranch.android.beatbox;
 
 public class Sound {
     private String mAssetPath;
+
     private String mName;
     private Integer mSoundId;
 
